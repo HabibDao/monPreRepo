@@ -1,0 +1,1 @@
+ illustration d'un petit blog avec connection a une bd
